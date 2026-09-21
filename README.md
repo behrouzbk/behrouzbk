@@ -1,7 +1,7 @@
 # Bruce Kashani
 
 **Solution architect and consultant — distributed systems, blockchain, and cloud.**
-Toronto, Canada · [lummana.com](https://lummana.com) · admin@lummana.com
+Toronto, Canada · bkashani@gmail.com
 
 I design and build systems that have to be correct under adversarial
 conditions, and I write them so that other engineers can read them. Available
@@ -43,6 +43,6 @@ in the repository. Apache 2.0.
 
 ## Working with me
 
-Email **admin@lummana.com** with a paragraph about the problem. Typical
+Email **bkashani@gmail.com** with a paragraph about the problem. Typical
 engagements: a discovery and design phase, a private-chain deployment with a
 runbook and operator training, or an architecture review of an existing system.
