@@ -42,7 +42,7 @@ Node's built-in `crypto`, and there are three runtime dependencies.
   SPV light client
 - JSON-RPC over TLS, Prometheus metrics, Docker and Kubernetes packaging —
   deployed and tested on Google Cloud (GKE)
-- 619 tests, a large share of them explicit attacks; a public
+- 622 tests, a large share of them explicit attacks; a public
   [threat model](https://github.com/behrouzbk/plainchain/blob/main/docs/THREAT-MODEL.md)
   covering about 60 threats, each tied to code and a test
 
