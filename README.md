@@ -1,13 +1,13 @@
 # Bruce Banaei
 
 **Solution architect for AI and blockchain — AI systems that stay affordable in production, and ledgers that stay correct under attack.**
-Toronto, Canada · Axieo Technologies Inc. · info@axieo.ca
+Toronto, Canada · [Axieo Technologies Inc.](https://axieo.ca) · info@axieo.ca
 
 I design and build systems where mistakes are expensive: AI applications whose
 cost grows with every call, and ledgers, payment flows and shared records
 between organisations that have to stay correct under adversarial conditions.
-I write them so that other engineers can read them. I work through Axieo
-Technologies Inc., based in Toronto.
+I write them so that other engineers can read them. I work through
+[Axieo Technologies Inc.](https://axieo.ca), based in Toronto.
 
 ## Services
 
